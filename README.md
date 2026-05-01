@@ -34,7 +34,7 @@
 
 ```bash
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/job-board-backend.git
+git clone https://github.com/amanueldev03-afk/job-board-backend.git
 cd job-board-backend
 
 # Install dependencies
@@ -48,4 +48,5 @@ cp .env.example .env
 # Start server
 npm run dev
 ```
+
 # Back-end-project
